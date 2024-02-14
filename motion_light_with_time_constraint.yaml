@@ -2,7 +2,7 @@ blueprint:
   name: Motion-activated Light with time constraint
   description: Turn on a light when motion is detected and within time range.
   domain: automation
-  source_url: https://github.com/dann41/homeassistant_blueprints/blob/motion_light_with_time_constraint.yaml
+  source_url: https://github.com/dann41/homeassistant_blueprints/blob/main/motion_light_with_time_constraint.yaml
   input:
     motion_entity:
       name: Motion Sensor
